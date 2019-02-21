@@ -1,0 +1,28 @@
+# dev-server
+
+This is a express server we use for our products development.
+
+## Getting Started
+
+*  Install with npm: `npm install @foxythemes/dev-server -D`
+*  Run it with `devserver`
+
+## Docs
+
+```
+devserver -c path/to/config-file -v path/to/views -a path/to/assets -j path/to/js -p 8080
+
+Basic options
+
+-c, --config-file    Source path of config file
+-v, --views-path     Source path of views
+-a, --assets-path    Source path of assets
+-j, --js-path        Source path of JS
+-p, --port           Port
+
+```
+
+## License
+
+Copyright (c) FoxyThemes
+Licensed under the MIT license.

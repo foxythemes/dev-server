@@ -1,0 +1,26 @@
+{
+  "name": "@foxythemes/dev-server",
+  "version": "1.0.0",
+  "description": "Server for development side",
+  "main": "lib/dev-server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxythemes/dev-server.git"
+  },
+  "author": "Miguel Mich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foxythemes/dev-server/issues"
+  },
+  "homepage": "https://github.com/foxythemes/dev-server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
