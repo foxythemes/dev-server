@@ -1,6 +1,6 @@
 {
   "name": "@foxythemes/dev-server",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Server for development side",
   "main": "lib/dev-server.js",
   "directories": {
