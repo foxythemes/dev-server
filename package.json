@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/foxythemes/dev-server#readme",
   "dependencies": {
-    "express": "^4.16.4",
-    "pug": "^2.0.3"
+    "express": "^4.21.2",
+    "pug": "^3.0.3"
   }
 }
